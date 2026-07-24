@@ -15,3 +15,5 @@ Two Claude skills travel with the repo for repeatable ops:
 - `/fetch-netlify` — read live deploy state, env vars, build logs
 
 Defined under [`build/.claude/skills/`](build/.claude/skills/).
+
+Demo: https://rated-frontend-674757073766.us-east1.run.app
